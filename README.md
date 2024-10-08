@@ -1,8 +1,9 @@
-# React + Vite
+# To-do list and job application tracking app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This app is created to serve my personal purpose of improving and tracking my job search progress.
+It has two main features:
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<ul>
+    <li>To-do list for the current day</li>
+    <li>Job application tracking</li>
+</ul>
